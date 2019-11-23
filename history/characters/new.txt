@@ -1,0 +1,477 @@
+999999 = {
+	name="Luofu"
+	female=no
+	dynasty=1920000 #New (Bavaria)
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=30
+	intrigue=30
+	stewardship=30
+	learning=30
+	fertility=30
+	health=30
+	prestige = 50000
+	piety = 50000
+	decadence = 50000
+	wealth = 500000
+	trait="chinese_mao"
+	trait="chinese_mao_2"
+	#trait="immortal"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	trait="seducer"
+	
+	father=42018
+	846.1.1 = {
+		birth="746.1.1"
+	}
+	866.1.1={
+		add_spouse=999998
+	}
+	970.1.1 = {
+		death="970.1.1"
+	}
+}
+
+999998 = {
+	name="Riggy"
+	female=yes
+	dynasty=25061 #New (Franco)
+	culture="frankish"
+	religion="catholic"
+	
+	martial=60
+	diplomacy=60
+	intrigue=60
+	stewardship=60
+	learning=60
+	fertility=10
+	health=10
+	trait="chaste"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	
+	father=90104
+	850.1.1 = {
+		birth="750.1.1"
+	}
+	866.1.1={
+		add_spouse=999999
+	}
+	890.1.1 = {
+		death="790.1.1"
+	}
+}
+
+
+999997 = {
+	name="Chuhoi"
+	female=no
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=60
+	intrigue=40
+	stewardship=40
+	learning=40
+	trait="celibate"
+	trait="midas_touched"
+	trait="grey_eminence"
+	
+	850.1.1 = {
+		birth="750.1.1"
+	}
+	890.1.1 = {
+		death="850.1.1"
+	}
+}
+
+
+999000 = {
+	name="Paulus"
+	female=no
+	dynasty=1920000 #New (Bavaria)
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=30
+	intrigue=30
+	stewardship=30
+	learning=30
+	fertility=30
+	health=30
+	prestige = 500
+	piety = 500
+	decadence = 500
+	wealth = 5000
+	trait="chinese_mao"
+	trait="chinese_mao_2"
+	trait="immortal"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	trait="seducer"
+	
+	father=416
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1770.1.1 = {
+		death="1770.1.1"
+	}
+}
+
+
+999001 = {
+	name="Peter"
+	female=no
+	dynasty=1920000 #New (Bavaria)
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=30
+	intrigue=30
+	stewardship=30
+	learning=30
+	fertility=30
+	health=30
+	trait="chinese_mao"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	trait="seducer"
+	
+	father=999000
+	mother=999009
+	1049.1.1 = {
+		birth="1049.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+999002 = {
+	name="Andrew"
+	female=no
+	dynasty=1920000 #New (Bavaria)
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=30
+	intrigue=30
+	stewardship=30
+	learning=30
+	fertility=30
+	health=30
+	trait="chinese_mao"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	trait="seducer"
+	
+	father=999000
+	mother=999009
+	1050.1.1 = {
+		birth="1050.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+999003 = {
+	name="James"
+	female=no
+	dynasty=1920000 #New (Bavaria)
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=30
+	intrigue=30
+	stewardship=30
+	learning=30
+	fertility=30
+	health=30
+	trait="chinese_mao"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	trait="seducer"
+	
+	father=999000
+	mother=999009
+	1051.1.1 = {
+		birth="1051.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+
+999004 = {
+	name="John"
+	female=no
+	dynasty=1920000 #New (Bavaria)
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=30
+	intrigue=30
+	stewardship=30
+	learning=30
+	fertility=30
+	health=30
+	trait="chinese_mao"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	trait="seducer"
+	
+	father=999000
+	mother=999009
+	1052.1.1 = {
+		birth="1052.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+
+999005 = {
+	name="Philip"
+	female=no
+	dynasty=1920000 #New (Bavaria)
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=30
+	intrigue=30
+	stewardship=30
+	learning=30
+	fertility=30
+	health=30
+	trait="chinese_mao"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	trait="seducer"
+	
+	father=999000
+	mother=999009
+	1053.1.1 = {
+		birth="1053.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+
+999006 = {
+	name="Simon"
+	female=no
+	dynasty=1920000 #New (Bavaria)
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=30
+	intrigue=30
+	stewardship=30
+	learning=30
+	fertility=30
+	health=30
+	trait="chinese_mao"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	trait="seducer"
+	
+	father=999000
+	mother=999009
+	1054.1.1 = {
+		birth="1054.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+
+999007 = {
+	name="Matthew"
+	female=no
+	dynasty=1920000 #New (Bavaria)
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=30
+	intrigue=30
+	stewardship=30
+	learning=30
+	fertility=30
+	health=30
+	trait="chinese_mao"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	trait="seducer"
+	
+	father=999000
+	mother=999009
+	1055.1.1 = {
+		birth="1055.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+
+999008 = {
+	name="Thomas"
+	female=no
+	dynasty=1920000 #New (Bavaria)
+	culture="german"
+	religion="catholic"
+	
+	martial=30
+	diplomacy=30
+	intrigue=30
+	stewardship=30
+	learning=30
+	fertility=30
+	health=30
+	trait="chinese_mao"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	trait="seducer"
+	
+	father=999000
+	mother=999009
+	1056.1.1 = {
+		birth="1056.1.1"
+	}
+	1170.1.1 = {
+		death="1170.1.1"
+	}
+}
+
+999009 = {
+	name="Eva"
+	female=yes
+	dynasty=25061 #
+	culture="frankish"
+	religion="catholic"
+	
+	martial=60
+	diplomacy=60
+	intrigue=60
+	stewardship=60
+	learning=60
+	fertility=10
+	health=10
+	trait="chaste"
+	trait="fair"
+	trait="genius"
+	trait="ambitious"	
+	trait="strong"
+	trait="grey_eminence"
+	trait="brilliant_strategist"
+	trait="midas_touched"
+	trait="elusive_shadow"
+	trait="mastermind_theologian"
+	1030.1.1 = {
+		birth="1030.1.1"
+	}
+	1047.1.1={
+		add_spouse=999100
+	}
+	1066.1.1 = {
+		death="1066.1.1"
+	}
+}
+
+

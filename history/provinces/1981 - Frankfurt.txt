@@ -1,0 +1,66 @@
+# 1981 - Frankfurt
+
+# County Title
+title = c_frankfurt
+
+# Settlements
+max_settlements = 7
+b_frankfurt = castle
+b_katzenelnbogen = castle
+b_wiesbaden = castle
+b_rheinfels = castle
+b_st_goarshausen = temple
+b_botisphaden = castle
+b_dietigheim = castle
+
+# Misc
+culture = old_frankish
+religion = catholic
+
+# History
+750.1.1 = { culture = german }
+760.1.1 = { capital = b_frankfurt }
+765.1.1 = { 
+	b_frankfurt = ca_wall_q_1
+	b_frankfurt = ca_wall_q_2
+	b_frankfurt = ca_wall_q_3
+	b_frankfurt = ca_wall_q_4
+	b_frankfurt = ca_wall_q_5
+	b_frankfurt = ca_wall_1
+	b_frankfurt = ca_wall_2
+	b_frankfurt = ca_wall_3
+	b_frankfurt = ca_wall_4
+	b_frankfurt = ca_wall_5
+#	b_frankfurt = ca_wall_6
+	b_frankfurt = ca_keep_1
+	b_frankfurt = ca_keep_2
+	b_frankfurt = ca_keep_3
+	b_frankfurt = ca_keep_4
+	b_frankfurt = ca_keep_5
+	b_frankfurt = ca_keep_6
+	b_frankfurt = ca_militia_barracks_1
+	b_frankfurt = ca_militia_barracks_2
+	b_frankfurt = ca_militia_barracks_3
+	b_frankfurt = ca_militia_barracks_4
+	b_frankfurt = ca_training_grounds_1 
+	b_frankfurt = ca_training_grounds_2
+	b_frankfurt = ca_training_grounds_3 
+	b_frankfurt = ca_barracks_1
+	b_frankfurt = ca_barracks_2
+	b_frankfurt = ca_barracks_3
+	b_frankfurt = ca_barracks_4
+	b_frankfurt = ca_barracks_5
+	b_frankfurt = ca_barracks_6
+	b_frankfurt = ca_stable_1
+	b_frankfurt = ca_stable_2
+	b_frankfurt = ca_stable_3
+	b_frankfurt = ca_stable_4
+	b_frankfurt = ca_stable_5
+	b_frankfurt = ca_stable_6
+	b_frankfurt = ca_town_1
+	b_frankfurt = ca_town_2
+	b_frankfurt = ca_town_3
+	b_frankfurt = ca_town_4
+	b_frankfurt = ca_town_5
+	b_frankfurt = ca_town_6
+}

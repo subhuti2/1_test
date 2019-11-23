@@ -1,0 +1,16 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_trait_chinese_mao"
+		texturefile = "gfx/1_test_gfx/trait_chinese_mao.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate_linear.lua"
+	}
+	spriteType = {
+		name = "GFX_trait_chinese_mao_2"
+		texturefile = "gfx/1_test_gfx/trait_chinese_mao2.tga"
+		noOfFrames = 1
+		norefcount = yes
+		effectFile = "gfx/FX/buttonstate_linear.lua"
+	}
+}

@@ -1,0 +1,20 @@
+# 1987 - Hesse
+
+# County Title
+title = c_hesse
+
+# Settlements
+max_settlements = 7
+b_marburg = castle
+b_rotenburg_hesse = castle
+b_wetzlar = city
+b_kirchhain = temple
+b_blankenstein = castle
+b_merenberg = castle
+b_gladenbach = city
+
+# Misc
+culture = german
+religion = catholic
+
+# History

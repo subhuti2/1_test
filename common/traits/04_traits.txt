@@ -1,0 +1,56 @@
+chinese_mao  = {
+	agnatic = yes
+	
+	diplomacy = 30
+	martial = 30
+	intrigue = 30
+	stewardship = 30
+	learning = 30
+	combat_rating = 30
+	health = 1
+	fertility = 1
+	command_modifier = {
+		speed = 1#0.1
+		siege = 1#0.2
+		defence = 1#0.2
+		narrow_flank = 0.5#0.3
+		damage = 0.5#0.2
+		center = 0.5#0.2
+		flank = 0.5#0.2
+		retreat = 1.5#0.2
+		morale_offence = 0.5#0.2
+		morale_defence = 0.5#0.2
+	}
+	
+}
+
+chinese_mao_2  = {
+	random = no
+	agnatic = no
+	hidden = yes
+	immortal = yes
+	
+	diplomacy = 100
+	martial = 100
+	intrigue = 100
+	stewardship = 100
+	learning = 100
+	combat_rating = 200 
+	health = 10
+	fertility = 10
+	plot_power_modifier = 5
+	sex_appeal_opinion = 100
+	command_modifier = {
+		speed = 5#0.1
+		siege = 3#0.2
+		defence = 3#0.2
+		narrow_flank = 3#0.3
+		damage = 3#0.2
+		center = 3#0.2
+		flank = 3#0.2
+		retreat = 3#0.2
+		morale_offence = 3#0.2
+		morale_defence = 3#0.2
+	}
+	
+}
