@@ -10,7 +10,7 @@ technology = {
 		#c_bamberg 
 		c_frankfurt 
 		#c_hesse 
-		c_leiningen 
+		#c_leiningen 
 		#c_mainz 
 		#c_nassau 
 		#c_pfalz 
@@ -303,17 +303,5 @@ technology = {
 		
 		TECH_FORTIFICATIONS_CONSTRUCTION = 5.75
 		TECH_CASTLE_CONSTRUCTION = 5.75
-	}
-}
-
-
-technology = {
-	titles = {
-		c_frankfurt 
-	}
-	1066 = {
-		military = 8.0
-		economy = 8.0
-		culture = 8.0
 	}
 }
